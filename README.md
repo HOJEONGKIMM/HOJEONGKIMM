@@ -1,12 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20HoJeong's%20Github&fontSize=50" alt="header">
+</p>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+<p align="center">
+  <a href="https://github.com/HOJEONGKIMM">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHOJEONGKIMM&count_bg=%23D200FF&title_bg=%23FFA3A3&icon=tinder.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="hits">
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+</p>
+
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical" alt="HoJeong's GitHub stats">
+    </p>
+  </div>
+
+  <div>
+    <p align="center">
+      <a href="https://github.com/HOJEONGKIMM">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM" alt="Top Langs">
+      </a>
+    </p>
+  </div>
+
 </div>
