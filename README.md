@@ -79,7 +79,7 @@
 </div>
 
 
-  [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
+  [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
 
 
