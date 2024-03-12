@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-3670A0?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-150458.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-150458.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
  
 </div>
 
