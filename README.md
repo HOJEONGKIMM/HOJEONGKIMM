@@ -29,10 +29,10 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-#FFD700?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-#87CEEB?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-#98FB98?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-#FFB6C1?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-87CEEB?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-98FB98?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-FFB6C1?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
 </div>
 
 
