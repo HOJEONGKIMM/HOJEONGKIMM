@@ -29,11 +29,13 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-{{fc7e5e}}?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-{{aed581}}?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-{{81c784}}?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-{{90caf9}}?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-#FFD700?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-#87CEEB?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-#98FB98?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-#FFB6C1?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
 </div>
+
+
 
 <br>
 
@@ -45,8 +47,7 @@
 
 <br>
 
-<p align="center">
   [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
-</p>
+
 
