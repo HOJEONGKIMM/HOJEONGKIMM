@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-3670A0?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-150458.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-150458.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
  
 </div>
 
@@ -66,6 +66,18 @@
 </div>
 
 <br>
+
+<h3 align="center">Contact</h3>
+<div align="center">
+  <a href="https://velog.io/@naninaniyoyoyoyo">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:khj15263245@gmail.com">
+    <img
+      src="https://img.shields.io/badge/khj15263245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 
   [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
