@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-FFD700.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/intelliJ-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/eclipse-87CEEB.svg?style=for-the-badge&logo=eclipseide&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/eclipse-87CEEB.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Colab-98FB98.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 
 </div>
