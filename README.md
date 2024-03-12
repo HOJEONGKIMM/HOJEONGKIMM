@@ -11,13 +11,13 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical" alt="HoJeong's GitHub stats">
+  <div style="flex: 1; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical" alt="HoJeong's GitHub stats" width="400" height="200">
   </div>
 
-  <div style="margin-left: 20px;">
+  <div style="flex: 1; text-align: right; margin-left: 20px;">
     <a href="https://github.com/HOJEONGKIMM">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM" alt="Top Langs" width="300" height="200">
     </a>
   </div>
 
