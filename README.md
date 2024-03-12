@@ -9,6 +9,44 @@
 </p>
 
 
-[![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-{{fc7e5e}}?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-{{aed581}}?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-{{81c784}}?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-{{90caf9}}?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-3670A0?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-150458.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+ 
+</div>
+
+<br>
+
+<p align="center">
+  [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
+</p>
 
