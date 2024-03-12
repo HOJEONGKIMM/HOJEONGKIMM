@@ -9,17 +9,18 @@
 </p>
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: space-between;">
 
-  <div style="display: inline-block;">
+  <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&show_icons=true&theme=radical" alt="HoJeong's GitHub stats">
   </div>
 
-  <div style="display: inline-block; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <a href="https://github.com/HOJEONGKIMM">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM" alt="Top Langs">
     </a>
   </div>
 
 </div>
+
 
