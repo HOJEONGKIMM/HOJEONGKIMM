@@ -76,7 +76,9 @@
     <img
       src="https://img.shields.io/badge/khj15263245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hojeong-kim-07600a2ba)
+  </a>
 </div>
 
 <!-- 
