@@ -68,24 +68,26 @@
 
 <br>
 
-<!--
 <h3 align="center">Contact</h3>
 <div align="center">
   <a href="https://velog.io/@naninaniyoyoyoyo">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="mailto:khj15263245@gmail.com">
     <img
-      src="https://img.shields.io/badge/khj15263245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/khj15263245@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hojeong-kim-07600a2ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </div>
--->
 
-<!-- 
-  [![HoJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/HOJEONGKIMM)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM)](https://github.com/HOJEONGKIMM)
+<br>
 
+<!--
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HOJEONGKIMM&include_all_commits=true&show_icons=true&theme=radical" height="180" alt="HoJeong's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOJEONGKIMM&layout=compact&theme=radical" height="180" alt="Top Langs" />
+</div>
 -->
